@@ -202,7 +202,7 @@ SET GOOS=linux
 SET GOARCH=amd64
 go build
 ```
-#### widows
+#### windows
 ```
 // 配置环境变量
 SET CGO_ENABLED=1
